@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (!apiKey) return;
 
         chrome.storage.sync.set({ geminiApiKey: apikey},() =>{
-            
+            document.getElementById("success-message").style.display = "block";
         })
     })
 })
