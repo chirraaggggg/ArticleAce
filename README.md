@@ -1,4 +1,4 @@
-ArticleAce
+
 ArticleAce is a Chrome extension designed to help users summarize articles and blogs quickly using AI, enabling faster reading and easy extraction of key points from web content.
 
 Features
